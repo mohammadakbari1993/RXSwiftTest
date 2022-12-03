@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Blue legume",
+        "cuisine" : "europen"
+    },
+    {
+        "name" : "Kabab bazi",
+        "cuisine" : "iranian"
+    },
+    {
+        "name" : "Italy food",
+        "cuisine" : "italian"
+    },
+    {
+        "name" : "Mohammad Dizi",
+        "cuisine" : "iranian"
+    },
+    {
+        "name" : "Pitza 20",
+        "cuisine" : "fastfood"
+    },
+    {
+        "name" : "Aqajoon",
+        "cuisine" : "arabian"
+    }
+ 
+]
